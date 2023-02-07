@@ -1,3 +1,5 @@
-"hello world"
+# "hello world"
 
-hello_world
+puts "hello_world"
+# read-evaluate-print-loop
+# irb
